@@ -1,0 +1,46 @@
+Day 1 : Assignment
+
+
+1. What is your understanding of Blockchain?
+
+Ans: Blockchain is the mixture of distributed database & cryptography technology.
+It is ledger having transaction records which ensures security, transparency. Blockchain is chain of blocks where each block has its, record, previous block, signature & mining key.
+
+
+2. What is the core problem blockchain trying to solve?
+
+Ans: There are 3 core problems:
+A. Authenticity - The data can be altered
+B. Security
+C. Need of third party trust - Middle man
+
+
+
+3. What are the few features which blockchain will give u?
+Ans: It consists of the following features:
+1.Verifiable - We can verify the data with others having same data.
+2.Unchanged
+3.Tamper-Proof
+4.Immutable - The data will never die it will remain unchanged.
+
+
+4. What all things does a Block Contain?
+Ans: A block contain:-
+
+1. Current Block Hash
+2. Data Record of current block
+3.Previous Block Hash
+4. Signature
+5. Mining key
+
+
+
+5. How is the verifiability of Blockchain is been attained ?
+
+Ans: Verifiability can be attained by
+Block 1
+Previous fingerprint + content = New fingerprint
+
+Block 2
+New Fingerprint + new Doc = New fingerprint 2
+and this chain continues.
